@@ -1,8 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Content Include="Listing.1.1\Base.cs" />
+    <Content Include="Program.cs" />
+    <Content Include="Listing.1.2\Program.cs" />
+    <Content Include="Listing.1.1\Program.cs" />
+  </ItemGroup>
 </Project>

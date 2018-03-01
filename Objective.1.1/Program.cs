@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Threading;
 
-namespace Objective._1._1
+namespace Work
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Listing_1_2.Program.Start(args);
         }
     }
 }
