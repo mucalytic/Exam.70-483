@@ -5,12 +5,7 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Listing.1.1\Base.cs" />
     <Content Include="Program.cs" />
-    <Content Include="Listing.1.2\Program.cs" />
-    <Content Include="Listing.1.1\Program.cs" />
-    <Content Include="Listing.1.3\Program.cs" />
-    <Content Include="Listing.1.4\Program.cs" />
     <Content Include="Objective.1.1\Listing.1.1\Program.cs" />
     <Content Include="Objective.1.1\Listing.1.2\Program.cs" />
     <Content Include="Objective.1.1\Listing.1.3\Program.cs" />
