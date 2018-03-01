@@ -14,6 +14,7 @@ namespace Listing_1_1
             }
         }
 
+        // creating a thread with the Thread class
         public static void Start(string[] args)
         {
             var t = new Thread(new ThreadStart(ThreadMethod));

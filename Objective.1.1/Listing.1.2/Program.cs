@@ -14,6 +14,7 @@ namespace Listing_1_2
             }
         }
 
+        // using a background thread
         public static void Start(string[] args)
         {
             var t = new Thread(new ThreadStart(ThreadMethod));
