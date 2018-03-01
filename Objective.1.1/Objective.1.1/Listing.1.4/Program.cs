@@ -16,6 +16,8 @@ namespace Listing_1_4
                     Console.WriteLine("Running...");
                     Thread.Sleep(1000);
                 }
+
+                Console.WriteLine("Exiting...");
             }));
 
             t.Start();
