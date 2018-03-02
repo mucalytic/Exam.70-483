@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective.1.01", "Objective.1.01", "{A17395C1-5BA6-48F7-813A-14AC0F0FDC36}"
 EndProject
@@ -41,23 +41,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.17", "Objective.1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.18", "Objective.1.1\Listing.1.18\Listing.1.18.csproj", "{C44D834D-3736-4B83-80AF-36F9A6936521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.19", "Objective.1.1\Listing.1.19\Listing.1.19.csproj", "{5E52F052-F5AB-472B-97AF-EA893606E4DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.19", "Objective.1.1\Listing.1.19\Listing.1.19.csproj", "{5E52F052-F5AB-472B-97AF-EA893606E4DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.20", "Listing.1.20\Listing.1.20.csproj", "{5F16A0EF-3A7D-4912-BC2A-CB48803C6E66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.20", "Objective.1.1\Listing.1.20\Listing.1.20.csproj", "{5F16A0EF-3A7D-4912-BC2A-CB48803C6E66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.21", "Listing.1.21\Listing.1.21.csproj", "{57988B0A-A827-4689-92DB-FF075184C520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.21", "Objective.1.1\Listing.1.21\Listing.1.21.csproj", "{57988B0A-A827-4689-92DB-FF075184C520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.22", "Listing.1.22\Listing.1.22.csproj", "{56FCCD40-BC24-4D77-A373-DA1408DFA475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.22", "Objective.1.1\Listing.1.22\Listing.1.22.csproj", "{56FCCD40-BC24-4D77-A373-DA1408DFA475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.23", "Listing.1.23\Listing.1.23.csproj", "{142B3050-76F6-4790-9146-9CA3F1A29CAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.23", "Objective.1.1\Listing.1.23\Listing.1.23.csproj", "{142B3050-76F6-4790-9146-9CA3F1A29CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.24", "Listing.1.24\Listing.1.24.csproj", "{58C7DD57-460E-4B0D-8E84-F4443D9F9CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.24", "Objective.1.1\Listing.1.24\Listing.1.24.csproj", "{58C7DD57-460E-4B0D-8E84-F4443D9F9CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.25", "Listing.1.25\Listing.1.25.csproj", "{6F27A026-4B88-4226-BFA6-0A721FB95CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.25", "Objective.1.1\Listing.1.25\Listing.1.25.csproj", "{6F27A026-4B88-4226-BFA6-0A721FB95CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.26", "Listing.1.26\Listing.1.26.csproj", "{794C230A-90B7-48F7-BC5B-160058FFD530}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.26", "Objective.1.1\Listing.1.26\Listing.1.26.csproj", "{794C230A-90B7-48F7-BC5B-160058FFD530}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing.1.27", "Listing.1.27\Listing.1.27.csproj", "{42513A49-DB82-4F26-87B3-F4F4AFFCAC70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Listing.1.27", "Objective.1.1\Listing.1.27\Listing.1.27.csproj", "{42513A49-DB82-4F26-87B3-F4F4AFFCAC70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
